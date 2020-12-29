@@ -1,0 +1,32 @@
+
+Fontend  Technologies : Bootstrap 4 ,jQuery,HTML5 and CSS3 
+==============================================================
+1.Home Page (index.php)
+===============================================================
+-Categories 
+-Slides
+-Products
+-Top Navigation (that include Home,Market,Login,Admin,Shopping Cart and Contact)
+(footer,header)
+===============================================================
+2.Market page (shop.php)
+3.Login page (login.php)
+4.Admin(public\admin\index.php )
+===============================================================
+-Dashboard(public\admin\index.php)
+-Orders(public\index.php?orders)
+-View Products(public\admin\index.php?products)
+	-edit products(public\admin\index.php?edit_products)
+-Add Products(public\admin\index.php?add_products)
+-Categories(public\admin\index.php?categories)
+	-adding categories(index.php?add_categories)
+	-delete categories(index.php?delete_categories)
+-User(public\admin\index.php?users)
+	-add users(index.php?add_user)
+	-edit users(index.php?edit_user)
+	-delete users(index.php?delete_user)
+-Slides(public\admin\index.php?slides)
+	-delete slides(index.php?delete_slides)
+	-add slides(index.php?add_slides)
+=================================================================
+5.Contact 

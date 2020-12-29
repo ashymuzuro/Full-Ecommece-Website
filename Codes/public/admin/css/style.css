@@ -1,0 +1,35 @@
+#page-wrapper {
+  background-color: #F1F1F1 !important;
+}
+
+
+
+.product_image {
+
+width: 200px !important;
+height: 100px !important;
+
+
+}
+
+#admin_sidebar .form-group {
+
+background-color: #fff;
+padding: 8px;
+
+}
+
+#admin_sidebar .form-group hr {
+
+margin-top: 10px;
+margin-bottom: 10px;
+
+
+}
+
+#admin_sidebar .btn{
+
+width: 49%;
+
+}
+

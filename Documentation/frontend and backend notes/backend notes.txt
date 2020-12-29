@@ -1,0 +1,46 @@
+
+Backend Technologies : Php ,MySQL  and PayPal 
+================================================
+Functions
+=================================================
+Functions doing the management of system
+=================================================
+1.Cart.php
+=================================================
+-function cart()
+-function show_paypal()
+-function process_transaction()
+==================================================
+2.Functions.php
+==================================================
+-function redirect($location)
+-function set_message($msg)
+-function display_message()
+-function query($sql)
+-function confirm($results)
+-function escape_string($string)
+-function fetch_array($results)
+-function get_product()
+-function get_categories()
+-function get_products_in_category_page()
+-function get_products_in_shop_page()
+-function login user()
+-function user_name()
+-function send_message()
+-function last_id()
+-function display_order()
+-function display_images($pictures)
+-function show_product_category_title($prooduct_category_id)
+-function get_products_in_admin()
+-function add_product()
+-function show_categories_add_product()
+-function update_product()
+-function show_categories_in_admin()
+-function add_category()
+-function display_users()
+-function add_user()
+-function add_slides()
+-function get_current_slides_in_admin()
+-function get_active_slide()
+-function get_slides()
+-function get_slide_thumbnails()
