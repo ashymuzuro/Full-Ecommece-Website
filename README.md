@@ -1,5 +1,5 @@
 Muzuro Ecommerce System (M.E.S) project.
-<img src="Screenshot/Screenshot 2020-12-30 055904.png" width="250">
+<img src="Screenshot/Screenshot 2020-12-30 055904.png" >
 <img src="Screenshot/Screenshot 2020-12-30 055942.png" width="250">
 <img src="Screenshot/Screenshot 2020-12-30 060005.png" width="250">
 <img src="Screenshot/Screenshot 2020-12-30 060033.png" width="250">
