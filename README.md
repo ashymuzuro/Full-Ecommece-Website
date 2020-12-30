@@ -82,11 +82,11 @@ Software Requirements: - ➢ Front End: - HTML, CSS, JS, Bootstrap ➢ Back End:
 
 3.6CONCEPTUAL MODEL: - 
 
-3.6.1 Event Table: -
-3.6.2 Use Case Diagram: -
-3.6.3 Sequence Diagram: -
-3.6.4 Class Diagram: -
-3.6.5 State Chart Diagram: -
+<p>3.6.1 Event Table: -</p><br>
+<p>3.6.2 Use Case Diagram: -</p><br>
+<p>3.6.3 Sequence Diagram: -</p><br>
+<p>3.6.4 Class Diagram: -</p><br>
+<p>3.6.5 State Chart Diagram: -</p><br>
 
 
 CHAPTER 4 SYSTEM DESIGN 
@@ -116,16 +116,43 @@ Product Module: - The main purpose for developing this module is to manage the p
 <ul>• Admin can see the list of all product </ul>
 <ul>• Customer can see product</ul>
 
-Order Module: - The main purpose for developing this module is to manage the customer orders for the product. So, all orders will be managed by admin and customer will be able to see his order and their payment receipt. Features of Order Module: • Admin can manage the order • Admin can edit/delete the order • Admin can see the list of all order • Customer can see his order Functionality
+Order Module: - The main purpose for developing this module is to manage the customer orders for the product. So, all orders will be managed by admin and customer will be able to see his order and their payment receipt.
+<p> Features of Order Module:</p><br>
+<ul>• Admin can manage the order </ul>
+<ul>• Admin can edit/delete the order</ul>
+<ul>• Admin can see the list of all order</ul> 
+<ul>• Customer can see his order Functionality</ul>
 
 Admin user: These are the functionality performed by the admin users: - 
-<ul>• Login for Admin</ul> <ul>• Change Password for Admin</ul> <ul>• Logout Functionality </ul><ul>• Dashboard for Admin User</ul> <ul>• Manage Category </ul><ul>• Adding New Category </ul><ul>• Edit the Exiting Category</ul><ul> • View details of the Category </ul><ul>• Listing of all Category </ul><ul>• Manage Customer</ul> <ul>• Adding New Customer </ul><ul>• Edit the Exiting Customer</ul> <ul>• View details of the Customer</ul><ul> • Listing of all Customer </ul>• Manage Product • Adding New Product • Edit the Exiting Product • View details of the Product • Listing of all Product • Advertising Popular Products • Checking User Activity • Manage Order • Adding New Order • Edit the Exiting Order • View details of the Order • Listing of all Order • Reports of the Project E-Commerce Website with Visitor Tracking System • Report of all Orders 6. 
+<ul>• Login for Admin</ul> 
+<ul>• Change Password for Admin</ul>
+<ul>• Logout Functionality </ul>
+<ul>• Dashboard for Admin User</ul>
+<ul>• Manage Category </ul><ul>
+<ul>• Adding New Category </ul>
+<ul>• Edit the Exiting Category</ul>
+<ul> • View details of the Category </ul>
+<ul>• Listing of all Category </ul>
+    <ul>• Manage Customer</ul>
+    <ul>• Adding New Customer </ul>
+    <ul>• Edit the Exiting Customer</ul>
+    <ul>• View details of the Customer</ul>
+    <ul> • Listing of all Customer </ul>
+    <ul>• Manage Product</ul> 
+    <ul>• Adding New Product</ul> 
+    <ul>•Edit the Exiting Product</ul>
+    <ul>• View details of the Product</ul>
+    <ul>• Listing of all Product</ul>
+    <ul>• Advertising Popular Products</ul> 
+    <ul>• View details of the Order</ul>
+    <ul>• Listing of all Order </ul>
+    
 Functionality performed by Customer user: - Customer Registration: - • Any customer can register on website using the registration module. • Customer Login: This is the login form, from where customer can login into the system • Customer Payment: Customer can manage all the product payment from this form. • Item Cart: This is item cart form in this project. • Customer Order Receipt: This customer gets order receipt form details. • Customer My Order: This customer gets my order form details. • Change Password: This is the change password module from where customer change his account password.
 
 
 4.2 DATA DESIGN: - 
-4.2.1 Schema Design with Data Integrity and Constraints: - 
-4.2.2 Database Relationship Design: - 
+<p>4.2.1 Schema Design with Data Integrity and Constraints: -<p> 
+<p>4.2.2 Database Relationship Design: -</p> 
 
 
 4.3 USER INTERFACE DESIGN: - 
