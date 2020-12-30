@@ -93,16 +93,33 @@ CHAPTER 4 SYSTEM DESIGN
 
 4.1 BASIC MODULES: -
 
-Customer Module: - The main purpose of this module is providing all the functionality related to customers. It tracks all the information and details of the customer. We have developed all type of CRUD (Create, Read, Update and Delete) operations of the customers. This is a role-based module where admin can perform each and every operation on data but the customer will be able to view only his/her data, so access level restrictions has also been implemented on the project. Features of Customer Module: - • Admin can add new customers records • Admin can see the list of customers details • Only admin can edit and update the record of the customers • Admin will be able to delete the records of the customers • Customer will be able to see his details • Customer will be able to update his details
+Customer Module: - The main purpose of this module is providing all the functionality related to customers. It tracks all the information and details of the customer. We have developed all type of CRUD (Create, Read, Update and Delete) operations of the customers. This is a role-based module where admin can perform each and every operation on data but the customer will be able to view only his/her data, so access level restrictions has also been implemented on the project. 
+<p>Features of Customer Module: -</p><br>
+<ul>• Admin can add new customers records </ul>
+<ul>• Admin can see the list of customers details </ul>
+<ul>• Only admin can edit and update the record of the customers </ul>
+<ul>• Admin will be able to delete the records of the customers </ul>
+<ul>• Customer will be able to see his details </ul>
+<ul>• Customer will be able to update his details</ul>
 
-Category Module: - The main purpose for developing this module is to manage the category of the product data wise. So, all product category will be managed by admin and customer will be able to see product category. Admin can see the list of all the product category and filter it according to the customers. Features of Category Module: • Admin can manage the category • Admin can edit/delete the category • Admin can see the list of all category • Customer can see category
+Category Module: - The main purpose for developing this module is to manage the category of the product data wise. So, all product category will be managed by admin and customer will be able to see product category. Admin can see the list of all the product category and filter it according to the customers. 
+<p>Features of Category Module:</p>
+<ul>• Admin can manage the category</ul>
+<ul>• Admin can edit/delete the category </ul>
+<ul>• Admin can see the list of all category</ul>
+<ul>• Customer can see category</ul.</ul>
 
-Product Module: - The main purpose for developing this module is to manage the product. So, all category of product will be managed by admin and customer will be able to see the product. Features of product Module: - • Admin can manage the product • Admin can edit/delete the product • Admin can see the list of all product • Customer can see product
+Product Module: - The main purpose for developing this module is to manage the product. So, all category of product will be managed by admin and customer will be able to see the product. 
+<p>Features of product Module: -</p>
+<ul>• Admin can manage the product </ul>
+<ul>• Admin can edit/delete the product</ul>
+<ul>• Admin can see the list of all product </ul>
+<ul>• Customer can see product</ul>
 
 Order Module: - The main purpose for developing this module is to manage the customer orders for the product. So, all orders will be managed by admin and customer will be able to see his order and their payment receipt. Features of Order Module: • Admin can manage the order • Admin can edit/delete the order • Admin can see the list of all order • Customer can see his order Functionality
 
 Admin user: These are the functionality performed by the admin users: - 
-<ul>• Login for Admin • Change Password for Admin</ul> • Logout Functionality • Dashboard for Admin User • Manage Category • Adding New Category • Edit the Exiting Category • View details of the Category • Listing of all Category • Manage Customer • Adding New Customer • Edit the Exiting Customer • View details of the Customer • Listing of all Customer • Manage Product • Adding New Product • Edit the Exiting Product • View details of the Product • Listing of all Product • Advertising Popular Products • Checking User Activity • Manage Order • Adding New Order • Edit the Exiting Order • View details of the Order • Listing of all Order • Reports of the Project E-Commerce Website with Visitor Tracking System • Report of all Orders 6. 
+<ul>• Login for Admin</ul> <ul>• Change Password for Admin</ul> <ul>• Logout Functionality </ul><ul>• Dashboard for Admin User</ul> <ul>• Manage Category </ul><ul>• Adding New Category </ul><ul>• Edit the Exiting Category</ul><ul> • View details of the Category </ul><ul>• Listing of all Category </ul><ul>• Manage Customer</ul> <ul>• Adding New Customer </ul><ul>• Edit the Exiting Customer</ul> <ul>• View details of the Customer</ul><ul> • Listing of all Customer </ul>• Manage Product • Adding New Product • Edit the Exiting Product • View details of the Product • Listing of all Product • Advertising Popular Products • Checking User Activity • Manage Order • Adding New Order • Edit the Exiting Order • View details of the Order • Listing of all Order • Reports of the Project E-Commerce Website with Visitor Tracking System • Report of all Orders 6. 
 Functionality performed by Customer user: - Customer Registration: - • Any customer can register on website using the registration module. • Customer Login: This is the login form, from where customer can login into the system • Customer Payment: Customer can manage all the product payment from this form. • Item Cart: This is item cart form in this project. • Customer Order Receipt: This customer gets order receipt form details. • Customer My Order: This customer gets my order form details. • Change Password: This is the change password module from where customer change his account password.
 
 
