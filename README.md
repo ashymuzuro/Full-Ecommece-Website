@@ -7,6 +7,12 @@ Muzuro Ecommerce System (M.E.S) project.
 <img src="Screenshoots/Screenshot 2020-12-30 060115.png" >
 <img src="Screenshoots/Screenshot 2020-12-30 060129.png" >
 <img src="Screenshoots/Screenshot 2020-12-30 060213.png" >
+<img src="Screenshoots/Screenshot 2020-12-30 060229.png" >
+<img src="Screenshoots/Screenshot 2020-12-30 060244.png" >
+<img src="Screenshoots/Screenshot 2020-12-30 060301.png" >
+<img src="Screenshoots/Screenshot 2020-12-30 060353.png" >
+<img src="Screenshoots/Screenshot 2020-12-30 060410.png" >
+
 CHAPTER 1 INTRODUCTION:- 
 The broad definition of e-commerce transactions refers to the selling and buying of products and services over computer-mediated networks while the end process of payment and delivery is managed offline. Electronic Commerce (e-commerce) is defined as the conduct of commerce in goods and services, with the assistance of telecommunications and telecommunications-based tools such as the Internet. E-commerce is often used in a much broader sense, to mean essentially the same as “electronic business” (EB). E-commerce encompasses many areas, which include electronic catalogues that refer to means whereby sellers can communicate their offerings to potential buyers.
 
