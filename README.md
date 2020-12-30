@@ -133,19 +133,19 @@ Admin user: These are the functionality performed by the admin users: -
 <ul>• Edit the Exiting Category</ul>
 <ul> • View details of the Category </ul>
 <ul>• Listing of all Category </ul>
-    <ul>• Manage Customer</ul>
-    <ul>• Adding New Customer </ul>
-    <ul>• Edit the Exiting Customer</ul>
-    <ul>• View details of the Customer</ul>
-    <ul> • Listing of all Customer </ul>
-    <ul>• Manage Product</ul> 
-    <ul>• Adding New Product</ul> 
-    <ul>•Edit the Exiting Product</ul>
-    <ul>• View details of the Product</ul>
-    <ul>• Listing of all Product</ul>
-    <ul>• Advertising Popular Products</ul> 
-    <ul>• View details of the Order</ul>
-    <ul>• Listing of all Order </ul>
+<ul>• Manage Customer</ul>
+<ul>• Adding New Customer </ul>
+<ul>• Edit the Exiting Customer</ul>
+<ul>• View details of the Customer</ul>
+<ul> • Listing of all Customer </ul>
+<ul>• Manage Product</ul> 
+<ul>• Adding New Product</ul> 
+<ul>•Edit the Exiting Product</ul>
+<ul>• View details of the Product</ul>
+<ul>• Listing of all Product</ul>
+<ul>• Advertising Popular Products</ul> 
+<ul>• View details of the Order</ul>
+<ul>• Listing of all Order </ul>
     
 Functionality performed by Customer user: - Customer Registration: - • Any customer can register on website using the registration module. • Customer Login: This is the login form, from where customer can login into the system • Customer Payment: Customer can manage all the product payment from this form. • Item Cart: This is item cart form in this project. • Customer Order Receipt: This customer gets order receipt form details. • Customer My Order: This customer gets my order form details. • Change Password: This is the change password module from where customer change his account password.
 
